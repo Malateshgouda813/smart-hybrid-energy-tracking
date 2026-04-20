@@ -131,7 +131,8 @@ smart-hybrid-energy-tracking/
 
 ## 👨‍💻 Author
 
-*MALATESHGOUDA R H*
+MALATESHGOUDA R H
+
 Electrical & Electronics Engineering
 
 ---
@@ -141,4 +142,4 @@ Electrical & Electronics Engineering
 This project demonstrates the potential of hybrid renewable systems in achieving **efficient, reliable, and sustainable energy solutions**.
 
 ---
-# smart-hybrid-energy-tracking
+
